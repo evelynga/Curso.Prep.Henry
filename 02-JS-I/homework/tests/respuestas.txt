@@ -1,0 +1,39 @@
+variables : es una forma de guardar algo para usar mas tarde.La creamos bajo la palabra reservadas 
+            var(cualquier tipo de variable) o const(variable constante no cambia su valor) espacio el nombre de la 
+            variable punto y coma,de esta forma ya esta creada nuestra variable.Para asignarle un valor se pone el nombre de la variable 
+            el signo igual y luego lo que le querramos asignar.
+
+
+String : son los caracteres o palabras o texto, va siempre entre comillas.
+
+Funciones : son conjuntos de codigo que se usan para no repetir el mismo codigo.Los argumentos son como las variables.Return va a devolver un valor. 
+
+Declaraciones 'if': se usan para comprobar si algo es verdadero o falso.
+
+Valores Booleanos : son valores logicos, en este caso se usa verdadero  o falso.
+
+
+
+
+
+hola!! yo no puedo correr los test ys se instalo el npm pero cada vez que lo 
+quiero corrrer me sale este mje y ya nose como hacer 
+
+
+Usuario@Usuario-PC MINGW64 ~/Documents/GitHub/Curso.Prep.Henry (master)
+$ npm test JSI.test.js
+
+> prep@1.0.0 test C:\Users\Usuario\Documents\GitHub\Curso.Prep.Henry
+> jest --collectCoverage=false "JSI.test.js"
+
+"jest" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+npm ERR! Test failed.  See above for more details.
+
+Usuario@Usuario-PC MINGW64 ~/Documents/GitHub/Curso.Prep.Henry (master)
+$
+
+
+
+
+igual ya subi el primer test creo que esta todo bien! muchas gracias!
