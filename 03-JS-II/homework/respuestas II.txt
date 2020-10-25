@@ -1,0 +1,11 @@
+respuestas 2:
+
+1-
+for: Son bucles que evaluan expresiones una y otra vez hasta que devuelve lo que estamos buscando o se detiene después de cierto tiempo.
+
+&& : es el operador “Y” (“AND”).Va a  evaluar 2 o mas expresiones y va a devolver verdadero si todas las expresiones son true. Si uno (o ambos) de ellos es falso, devolverá false.
+
+|| :es el operador “O” (“OR”). Evalua si una de las expresiones es true.Va a devolver true si una (o ambas) de las expresiones es true.Va a devolverá false si AMBAS expresiones son falso. 
+
+! :es el operador “NOT” (“NO”).El operador NOT devolverá el valor booleano opuesto de lo que se le pasa. ejemplo !true va a devolver false.
+
